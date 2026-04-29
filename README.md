@@ -3,3 +3,8 @@
 ---
 
 # AxionAosp
+git
+
+```
+git clone .repo/local_manifests
+```
